@@ -115,8 +115,8 @@ $arrLang=array(
 // Issabel 0.9 
 
 //Inicio SubModule Themes
-"Themes" => "Themes",
-"Change Theme" => "Change Theme",
+"Themes" => "界面主题",
+"Change Theme" => "修改主题",
 //Fin SubModule Themes
 
 /*Module IM*/
@@ -151,8 +151,8 @@ implementations of Voice over IP around the globe.",
 
 //Issabel 0.9.1
 /*Start module Group List*/
-"Groups"=>"Groups",
-"Group List"=>"Group List",
+"Groups"=>"组",
+"Group List"=>"组列表",
 /*End module Group List*/
 
 /** Issabel 1.0 **/
@@ -169,17 +169,17 @@ implementations of Voice over IP around the globe.",
 "Show"   => "Show",
 'md_message_title' => 'Dismiss',
 "ERROR" => "Error",
-"VersionDetails" => "Version",
+"VersionDetails" => "版本",
 "VersionPackage" => "Details of package versions",
-"textMode" => "Text Mode",
-"htmlMode" => "Html Mode",
-"Register" => "Register",
-"Registered" => "Registered",
-"Unauthorized" => "Unauthorized",
-"You are not authorized to access to this page" => "You are not authorized to access to this page",
-"You need administrator privileges" => "You need administrator privileges",
-"Issabel Authentication" => "Issabel Authentication",
-"Unauthorized" => "Unauthorized",
+"textMode" => "Text 模式",
+"htmlMode" => "Html 模式",
+"Register" => "注册",
+"Registered" => "已注册",
+"Unauthorized" => "未授权",
+"You are not authorized to access to this page" => "你没有权限访问此页面",
+"You need administrator privileges" => "用户需要管理员权限",
+"Issabel Authentication" => "Issabel 认证",
+"Unauthorized" => "未授权",
 "You are not authorized to access this page." => "You are not authorized to access this page.",
 "You have not permissions to access to Flash Operator Panel. Please contact your administrator." => "You have not permissions to access to Flash Operator Panel. Please contact your administrator.",
 "Advice" => "Advice"
