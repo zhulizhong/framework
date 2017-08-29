@@ -90,16 +90,16 @@ $arrLang=array(
 
 //version 0.8
 //user
-"View User" => "View User",
+"View User" => "查看用户",
 
 /*system - date/time*/
-"Date/Time"  =>  "Date/Time",
+"Date/Time"  =>  "日期/时间",
 
 //load module
-"Load Module"  =>  "Load Module",
-"File name"  =>  "File name",
+"Load Module"  =>  "加载模块",
+"File name"  =>  "文件名称",
 "ID for new module (folder name)"  =>  "ID for new module (folder name)",
-"Choose Menu"  =>  "Choose Menu",
+"Choose Menu"  =>  "选择菜单",
 "ID for new menu"  =>  "ID for new menu",
 "Menu Name"  =>  "Menu Name",
 "Defined Menu"  =>  "Defined Menu",
@@ -136,10 +136,10 @@ $arrLang=array(
 "The SugarCRM installation is almost done. To complete it please" => "The SugarCRM installation is almost done. To complete it please",
 
 /* Preferences*/
-"Preferences" => "Preferences",
+"Preferences" => "偏好",
 
 /* Start About Issabel */
-"About Issabel"=>"About Issabel",
+"About Issabel"=>"关于 Issabel",
 "About Issabel2"=>"About us",
 "HELP"=>"Help",
 "About Issabel Content"=>"Issabel was created under the premise of becoming a reliable, easy-to-use,
@@ -158,11 +158,11 @@ implementations of Voice over IP around the globe.",
 /** Issabel 1.0 **/
 
 /*Grouplist*/
-"administrator" => "Administrator",
-"operator" => "Operator",
-"extension" => "Extension",
-"total access" => "Total Access",
-"extension user" => "Extension User",
+"administrator" => "管理员",
+"operator" => "接线员",
+"extension" => "分机",
+"total access" => "总访问量",
+"extension user" => "分机用户",
 /*Grouplist*/
 "Title" => "Title",
 "Search" => "Search",
